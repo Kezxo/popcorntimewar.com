@@ -3362,6 +3362,11 @@ span.code {
 #page-faq a:hover, #page-faq a:active, #page-faq a:focus {
 	color: #8b929f;
 }
+#page-faq .pochoclin {
+	display: block;
+	margin: 10px auto 30px auto;
+	width: 194px;
+}
 .beta #footer .download {
   display: none !important; }
 .beta #footer ul {
