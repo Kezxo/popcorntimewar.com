@@ -10,7 +10,7 @@ People need to know the truth about whats going on (time4popcorn / popcorn time)
 
 ### Nice quote of Sharkiller
 
-```
+
 Time4Popcorn is a bad clone of PopcornTime, they have used the official github to steal progress for their own release.
 
 They are not active neither are they the "widely-known fork" of the current development. 
@@ -28,4 +28,4 @@ You can see people here talking about the garbage of this clone and not recommen
 time4popcorn is not the first and neither the one that publishes PopcornTime builds. 
 
 As you can see their mac build is the SAME as our official from http://get-popcorn.com and github. RIDICULOUS (they don't know how to compile :))
-```
+
