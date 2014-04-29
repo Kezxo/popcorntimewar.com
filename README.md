@@ -18,7 +18,7 @@ People need to know the truth about whats going on (time4popcorn / popcorn time)
 > As you can see [here](https://github.com/popcorn-official/popcorn-app/issues?state=open) we have a lot of issues 
 reported, demonstrating the activity of the repo
 
-> [https://github.com/popcorn-official/popcorn-app/commits/dev-0.3](the dev branch) is what was taken by time4popcorn. 
+> [This dev branch](https://github.com/popcorn-official/popcorn-app/commits/dev-0.3) is what was taken by time4popcorn. 
 
 > Their repo is a clone of ours with no issues, no commits and the same UI we were working for the past weeks.
 
