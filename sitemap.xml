@@ -4,9 +4,10 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>http://popcorntimewar.com/</loc>
-  <lastmod>2014-04-29T18:24:23+00:00</lastmod>
-  <changefreq>always</changefreq>
-</url>
+	<url>
+	  <loc>http://popcorntimewar.com/</loc>
+	  <lastmod>2014-04-29T18:24:23+00:00</lastmod>
+	  <changefreq>always</changefreq>
+	</url>
+	
 </urlset>
